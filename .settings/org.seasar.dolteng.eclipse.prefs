@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/seasar2bbs/src/main/resources
+DefaultRootPackage=com.example
+DefaultSrcPath=/seasar2bbs/src/main/java
+ServletPath=/seasar2bbs
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1
