@@ -1,0 +1,45 @@
+package com.example.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
+import com.example.form.InsertForm;
+
+@Entity
+public class Employee {
+
+	@Column(name="id")
+	@Id
+	public int id;
+	@Column(name="name")
+	public String name;
+	@Column(name="age")
+	public Integer age;
+	@ManyToOne
+	@JoinColumn(name="id", referencedColumnName="gender_id")
+	public Gender gender;
+	@Column(name="address")
+	public String address;
+
+	public Employee transform(InsertForm form){
+		this.name = form.name;
+		this.age = Integer.parseInt(form.age);
+		if(form.genderId == "0"){
+			this.gender = new Gender(0, "男性");
+		}else{
+			this.gender = new Gender(1, "女性");
+		}
+		this.address = form.address;
+		return this;
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + ", age=" + age
+				+ ", gender=" + gender + ", address=" + address + "]";
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.sample.action;
+
+import org.seasar.struts.annotation.Execute;
+
+public class InfoAction {
+
+	public String title;
+
+	@Execute(validator = false)
+	public String index(){
+		return "index.jsp";
+	}
+
+}

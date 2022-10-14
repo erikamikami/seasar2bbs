@@ -1,0 +1,16 @@
+package com.sample.action;
+
+import java.util.HashMap;
+
+public class InfoAction {
+
+	public HashMap<String, String> titles = new HashMap<String, String>();
+
+	public InfoAction(HashMap<String, String> titles) {
+		super();
+		this.titles.put("main", "Infomation");
+	}
+
+
+
+}

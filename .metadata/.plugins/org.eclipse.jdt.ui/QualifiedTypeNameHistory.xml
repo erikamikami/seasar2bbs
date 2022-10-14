@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.sample.form.InfoForm"/>
+<fullyQualifiedTypeName name="com.example.form.EchoForm"/>
+<fullyQualifiedTypeName name="org.seasar.framework.container.factory.SingletonS2ContainerFactory"/>
+<fullyQualifiedTypeName name="org.seasar.framework.container.SingletonS2Container"/>
+<fullyQualifiedTypeName name="com.example.entity.Gender"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.ActionForm"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="com.example.form.InsertForm"/>
+<fullyQualifiedTypeName name="com.example.service.EmployeeService"/>
+<fullyQualifiedTypeName name="com.example.entity.Employee"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="org.seasar.extension.jdbc.JdbcManager"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.example.entity.Animals"/>
+<fullyQualifiedTypeName name="org.junit.experimental.theories.suppliers.TestedOn"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="org.seasar.framework.container.annotation.tiger.Component"/>
+<fullyQualifiedTypeName name="sunw.io.Serializable"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.example.entity.UserDto"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.Execute"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="com.example.form.UserRegisterForm"/>
+<fullyQualifiedTypeName name="com.example.service.LoginService"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.Required"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.EmailType"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.Minlength"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.Maxlength"/>
+<fullyQualifiedTypeName name="org.seasar.struts.validator.S2FieldChecks"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.example.service.UserRegisterService"/>
+<fullyQualifiedTypeName name="com.example.entity.User"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="com.example.annotation.EmailDuplication"/>
+<fullyQualifiedTypeName name="org.seasar.struts.annotation.Msg"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,50 @@
+package com.example.validator;
+
+import javax.annotation.Resource;
+import javax.servlet.http.HttpServletRequest;
+
+import org.apache.commons.validator.Field;
+import org.apache.commons.validator.Validator;
+import org.apache.commons.validator.ValidatorAction;
+import org.apache.struts.action.ActionMessages;
+import org.seasar.struts.validator.S2FieldChecks;
+
+import com.example.entity.User;
+import com.example.service.UserRegisterService;
+
+
+public class EmailDuplicationCheck extends S2FieldChecks{
+
+	private static final long serialVersionUID = 1L;
+
+	@Resource
+	protected static UserRegisterService userRegisterService;
+
+	public static boolean validateEmailDuplication(Object bean,
+            ValidatorAction validatorAction, Field field,
+            ActionMessages errors, Validator validator,
+            HttpServletRequest request){
+		// アクションフォームから値を取得する
+		String value = getValueAsString(bean, field);
+		System.out.println("いいいいいいい");
+
+
+//		Object value = null;
+//		try {
+//			value = PropertyUtils.getProperty(bean, field.getProperty());
+//		} catch (Exception e) {
+//			System.err.println(e.getMessage());
+//		}
+
+		User user = userRegisterService.findByEmail(value);
+		System.out.println("userは、" + user);
+
+		// DBになければ重複でないのでエラー無し
+		if(user.equals(null)){
+			return true;
+		}
+		addError(errors, field, validator, validatorAction, request);
+		return false;
+	}
+
+}

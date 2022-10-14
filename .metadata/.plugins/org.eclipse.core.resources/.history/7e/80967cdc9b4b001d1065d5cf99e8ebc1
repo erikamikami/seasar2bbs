@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Dolteng Auto Generated</title>
+</head>
+<body>
+<h1>掲示板アプリへようこそ</h1>
+<s:link href="/login/">ログイン</s:link>
+<s:link href="/userRegister/">新規会員登録</s:link>
+<s:link href="/createBbs/">掲示板作成</s:link>
+
+<h2>掲示板 一覧</h2>
+<div>
+  <c:forEach items="${bbsList}" var="bbs">
+    <s:link href="/detailBbs/${bbs.userId}"  >${bbs.title}</s:link><br>
+  </c:forEach>
+</div>
+</body>
+</html>

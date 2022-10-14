@@ -1,0 +1,13 @@
+package com.sample.action;
+
+public class InfoAction {
+
+	private String title;
+
+	@Execute
+	public String form(){
+		this.title = "入力してください。";
+		return "form.jsp";
+	}
+
+}

@@ -1,0 +1,34 @@
+package com.example.service;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.entity.Bbs;
+
+public class SearchBbsService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	/**掲示板 全件検索
+	 * @return
+	 */
+	public List<Bbs> findAll(){
+		List<Bbs> bbsList = jdbcManager.from(Bbs.class).where("is_deleted = ?", false).getResultList();
+		return bbsList;
+	}
+
+	/**
+	 * 掲示板詳細取得
+	 * @param form
+	 * @return
+	 */
+	public Bbs findDetail(int bbsId){
+		Bbs bbs = jdbcManager.from(Bbs.class).id(form.bbsId).where("is_deleted = ?", false).innerJoin("comments").getSingleResult();
+		return bbs;
+	}
+
+}

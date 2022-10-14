@@ -1,0 +1,46 @@
+package com.example.dto;
+
+import java.io.Serializable;
+
+import org.seasar.framework.container.annotation.tiger.Component;
+import org.seasar.framework.container.annotation.tiger.InstanceType;
+
+import com.example.entity.User;
+
+/**
+ * 認証情報を格納しておくためのDTO
+ * @author erika
+ *
+ */
+@Component(instance=InstanceType.SESSION)
+public class UserDto implements Serializable{
+
+	public static final long serialVersionUID = 1L;
+
+	public Integer id;
+	public String name;
+	public int genderId;
+	public String email;
+	public Integer adminId;
+	public boolean isDeleted;
+
+	public UserDto transformFromUser(User user){
+		this.id = user.id;
+		this.name = user.name;
+		this.genderId = user.genderId;
+		this.email = user.email;
+		this.adminId = user.adminId;
+		this.isDeleted = user.isDeleted;
+		return this;
+	}
+
+	@Override
+	public String toString() {
+		return "UserDto [id=" + id + ", name=" + name + ", genderId="
+				+ genderId + ", email=" + email + ", adminId=" + adminId
+				+ ", isDeleted=" + isDeleted + "]";
+	}
+
+
+
+}

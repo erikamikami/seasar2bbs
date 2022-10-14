@@ -1,0 +1,8 @@
+package com.example.form;
+
+public class CreateCommentForm {
+
+	public String dtoId;
+	public String bbsId;
+
+}

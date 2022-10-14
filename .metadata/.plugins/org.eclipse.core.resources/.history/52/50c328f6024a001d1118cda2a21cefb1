@@ -1,0 +1,23 @@
+package com.example.action;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.entity.Animals;
+
+public class AnimalssearchAction {
+
+	@Resource
+	public JdbcManager jdbcManager;
+
+	@Execute(validator=false)
+	public String allsearch(){
+		List<Animals> animalsList = jdbcManager.from(Animals.class).getResultList();
+		return "test.jsp";
+	}
+
+}

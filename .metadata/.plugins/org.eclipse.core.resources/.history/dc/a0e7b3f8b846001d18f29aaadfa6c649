@@ -1,0 +1,34 @@
+package com.sample.action;
+
+import java.util.HashMap;
+
+import org.seasar.struts.annotation.Execute;
+
+import com.sample.form.InfoForm;
+
+public class InfoAction {
+
+	private HashMap<String, String> titles = new HashMap<String, String>();
+
+	private InfoForm infoForm;
+
+	public InfoAction(HashMap<String, String> titles) {
+		super();
+		this.titles.put("main", "Infomation");
+	}
+
+	@Execute(validator = false)
+	public String index(){
+		this.titles.put("sub", "Index");
+		return "index.jsp";
+	}
+
+	@Execute(validator = false)
+	public String edit(){
+		this.titles.put("sub", "Edit");
+		return "edit.jsp";
+	}
+
+
+
+}

@@ -1,0 +1,9 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>名前を入力してください</h1>
+<s:form>
+  <html:text property="name" />
+</s:form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+package com.example.action;
+
+import org.seasar.struts.annotation.Execute;
+
+public class DetailBbsAction {
+
+
+
+	@Execute(validator=false, urlPattern="/{userDtoId}")
+	public String index(){
+		return "bbs_detail.jsp";
+	}
+
+}

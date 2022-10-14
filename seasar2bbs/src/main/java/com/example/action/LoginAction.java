@@ -1,0 +1,48 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+import org.seasar.struts.exception.ActionMessagesException;
+
+import com.example.dto.UserDto;
+import com.example.entity.User;
+import com.example.form.LoginForm;
+import com.example.service.LoginService;
+
+public class LoginAction {
+
+	@Resource
+	@ActionForm
+	protected LoginForm loginForm;
+
+	// 認証情報を格納するセッションスコープのDTO
+	@Resource
+	protected UserDto userDto;
+
+	@Resource
+	protected LoginService loginService;
+
+	/**
+	 * ログイン画面を表示する
+	 */
+	@Execute(validator=false)
+	public String index(){
+		return "login.jsp";
+	}
+
+	/**
+	 * ログイン処理を行う
+	 */
+	@Execute(validator=true, input="login.jsp")
+	public String login(){
+		User user = loginService.findByEmailAndPassword(loginForm);
+		if(user==null){
+			throw new ActionMessagesException("メールアドレスまたはパスワードが違います。", false);
+		}
+		userDto = userDto.transformFromUser(user);
+		return "success.jsp";
+	}
+
+}

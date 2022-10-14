@@ -1,0 +1,11 @@
+package com.example.entity;
+
+
+public class Employee {
+
+	public String name;
+	public String age;
+	public Gender gender;
+	public String address;
+
+}

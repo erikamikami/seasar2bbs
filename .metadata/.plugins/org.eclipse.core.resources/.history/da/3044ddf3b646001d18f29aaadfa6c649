@@ -1,0 +1,19 @@
+package com.sample.action;
+
+import java.util.HashMap;
+
+import org.seasar.struts.annotation.Execute;
+
+public class InfoAction {
+
+	public String title;
+
+	@Execute(validator = false)
+	public String index(){
+		this.title = "タイトルだよ～";
+		HashMap<String, String> map = new HashMap<>();
+		map.put("キーです","バリューです");
+		return "index.jsp";
+	}
+
+}

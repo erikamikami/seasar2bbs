@@ -1,0 +1,13 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>従業員情報を入力してください</h1>
+<s:form method="POST">
+  名前：<html:text property="name" /><br>
+  年齢：<html:text property="age" /><br>
+  性別：<html:text property="genderId" /><br>
+  住所：<html:text property="address" /><br>
+  <html:submit property="insert" value="送信"/>
+</s:form>
+</body>
+</html>

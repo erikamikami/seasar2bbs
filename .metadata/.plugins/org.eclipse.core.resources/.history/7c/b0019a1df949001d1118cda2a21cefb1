@@ -1,0 +1,18 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.entity.Employee;
+
+public class EmployeeService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	public void insert(){
+		Employee employee = new Employee();
+	}
+
+}

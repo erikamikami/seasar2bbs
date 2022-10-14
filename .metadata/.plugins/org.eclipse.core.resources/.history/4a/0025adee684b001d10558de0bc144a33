@@ -1,0 +1,27 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>会員登録</h1>
+<html:errors/>
+<s:form method="POST">
+  <label>ユーザー名</label><br>
+  <html:text property="name" /><br>
+
+  <label>性別</label><br>
+  <html:multibox styleId="man" property="genderId" value="1" />
+  <label for="man">男性</label>
+  <html:multibox styleId="women" property="genderId" value="2" />
+  <label for="women">女性</label>
+  <html:multibox styleId="nogender" property="genderId" value="0" />
+  <label for="nogender">未設定</label><br>
+
+  <label>メールアドレス</label><br>
+  <html:text property="email" /><br>
+
+  <label>パスワード</label><br>
+  <html:text property="password" /><br>
+
+  <s:submit property="register" value="送信" />
+</s:form>
+</body>
+</html>

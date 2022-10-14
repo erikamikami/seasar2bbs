@@ -1,0 +1,13 @@
+package com.example.dto;
+
+
+public class UserDto {
+
+	public Integer id;
+	public String name;
+	public int genderId;
+	public String email;
+	public Integer adminId = 1;
+	public boolean isDeleted;
+
+}

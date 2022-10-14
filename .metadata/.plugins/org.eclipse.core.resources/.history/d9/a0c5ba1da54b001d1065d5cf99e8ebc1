@@ -1,0 +1,18 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.form.CreateCommentForm;
+
+public class CreateCommentService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	public int insert(CreateCommentForm form){
+
+	}
+
+}

@@ -1,0 +1,44 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.dto.UserDto;
+import com.example.form.BbsCreateForm;
+import com.example.service.CreateBbsService;
+
+public class CreateBbsAction {
+
+	@Resource
+	@ActionForm
+	protected BbsCreateForm bbsCreateForm;
+
+	@Resource
+	protected UserDto userDto;
+
+	@Resource
+	protected CreateBbsService createBbsService;
+
+	/**
+	 * 掲示板作成フォームを表示
+	 * @return
+	 */
+	@Execute(validator=false)
+	public String index(){
+		return "bbs_create_form.jsp";
+	}
+
+	/**
+	 * 掲示板の作成を行う
+	 * @return
+	 */
+	@Execute(validator=true, input="bbs_create_form.jsp")
+	public String createBbs(){
+		bbsCreateForm.userId = userDto.id;
+		createBbsService.insert(form);
+		return "bbs_create_form.jsp";
+	}
+
+}

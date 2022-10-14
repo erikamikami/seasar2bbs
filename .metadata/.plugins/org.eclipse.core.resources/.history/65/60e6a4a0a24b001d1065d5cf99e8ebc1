@@ -1,0 +1,42 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.entity.Bbs;
+import com.example.form.CreateCommentForm;
+import com.example.service.SearchBbsService;
+
+public class DetailBbsAction {
+
+	public Bbs bbs;
+
+	@Resource
+	@ActionForm
+	protected CreateCommentForm createCommentForm;
+
+	@Resource
+	protected SearchBbsService searchBbsService;
+
+
+	/**
+	 * 掲示板詳細画面
+	 * @return
+	 */
+	@Execute(validator=false, urlPattern="{bbsId}")
+	public String index(){
+		int bbsId = Integer.parseInt(createCommentForm.bbsId);
+		bbs = searchBbsService.findDetail(bbsId);
+		System.out.println(bbs);
+		return "bbs_detail.jsp";
+	}
+
+	@Execute(validate=false)
+	public String createComment(){
+
+		return "bbs_detail.jsp";
+	}
+
+}

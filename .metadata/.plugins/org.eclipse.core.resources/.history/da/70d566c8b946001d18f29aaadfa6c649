@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>新しく作ってみた</title>
+</head>
+<body>
+${titles.main} > ${titles.sub}
+
+<s:form>
+  <html:textarea property="msg"> </html:textarea>
+  <s:submit type="submit" value="保存"></s:submit>
+</s:form>
+
+</body>
+</html>

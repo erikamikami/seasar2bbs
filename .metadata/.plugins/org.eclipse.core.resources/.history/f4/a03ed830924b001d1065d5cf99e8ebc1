@@ -1,0 +1,22 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.form.BbsCreateForm;
+
+public class CreateBbsService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	/**
+	 * 掲示板の登録を行う
+	 * @return
+	 */
+	public int insert(BbsCreateForm form){
+
+	}
+
+}

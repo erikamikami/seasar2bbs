@@ -1,0 +1,8 @@
+DaoType=None
+DefaultResourcePath=/sastruts/src/main/resources
+DefaultRootPackage=com.example
+DefaultSrcPath=/sastruts/src/main/java
+ServletPath=/sastruts
+ViewType=None
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1

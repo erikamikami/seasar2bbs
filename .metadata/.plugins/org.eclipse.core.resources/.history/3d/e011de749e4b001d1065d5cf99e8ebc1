@@ -1,0 +1,30 @@
+package com.example.service;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.entity.Bbs;
+import com.example.form.CreateCommentForm;
+
+public class SearchBbsService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	/**掲示板 全件検索
+	 * @return
+	 */
+	public List<Bbs> findAll(){
+		List<Bbs> bbsList = jdbcManager.from(Bbs.class).where("is_deleted = ?", false).getResultList();
+		return bbsList;
+	}
+
+	public Bbs findDetail(CreateCommentForm form){
+		List<Bbs> bbsList = jdbcManager.from(Bbs.class).id(form.bbsId).where("is_deleted = ?", false).innerJoin("comments").getResultList();
+
+	}
+
+}

@@ -1,0 +1,14 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>従業員情報を入力してください</h1>
+<s:form>
+  名前：
+  <html:text property="name" /><br>
+  <html:text property="age" />
+  <html:text property="genderId" />
+  <html:text property="address" />
+  <html:button property="insert" value="送信"></html:button>
+</s:form>
+</body>
+</html>

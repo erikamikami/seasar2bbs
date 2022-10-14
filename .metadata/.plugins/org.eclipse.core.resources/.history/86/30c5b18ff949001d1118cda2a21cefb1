@@ -1,0 +1,27 @@
+package com.example.entity;
+
+import com.example.form.InsertForm;
+
+public class Employee {
+
+	public int id;
+	public String name;
+	public Integer age;
+	public Gender gender;
+	public String address;
+
+	public Employee transform(InsertForm form){
+		this.name = form.name;
+		this.age = Integer.parseInt(form.age);
+		if(form.genderId == "0"){
+			this.gender.id = 0;
+			this.gender.gender = "男性";
+		}else{
+			this.gender.id = 1;
+			this.gender.gender = "女性";
+		}
+		this.address = form.address;
+		return this;
+	}
+
+}

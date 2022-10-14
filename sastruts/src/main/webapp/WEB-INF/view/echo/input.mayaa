@@ -1,0 +1,9 @@
+<?xml version="1.0" encodeing="UTF-8"?>
+<m:mayaa xmlns:m="http://mayaa.seasar.org" xmlns:s="http://sastruts.seasar.org" xmlns:html="http://jakarta.apache.org/struts/tags-html">
+
+<html:errors m:id="error">
+
+<s:form m:id="form" />
+<html:text m:id="name" property="name" />
+<s:submit m:id="submit" property="echo" value="送信" />
+</m:mayaa>

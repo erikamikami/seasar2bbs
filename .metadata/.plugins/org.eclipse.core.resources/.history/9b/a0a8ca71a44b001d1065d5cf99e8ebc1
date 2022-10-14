@@ -1,0 +1,18 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>掲示板詳細</h1>
+<c:out value="${bbs.title}"></c:out>
+  <c:forEach items="${bbs.commentList}" var="comment">
+    <p>${comment}</p>
+    <s:link href="/detailBbs/${bbs.id}"  >${bbs.title}</s:link><br>
+  </c:forEach>
+<div>
+  <s:form>
+    <html:textarea property="comment" />
+    <html:hidden property="bbsId" value="${bbs.id}" />
+    <s:submit property="createComment" value="コメント投稿" />
+  </s:form>
+</div>
+</body>
+</html>

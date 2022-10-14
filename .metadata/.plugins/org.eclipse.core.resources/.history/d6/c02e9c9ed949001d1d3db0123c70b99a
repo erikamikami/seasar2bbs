@@ -1,0 +1,13 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+
+public class EchoAction {
+
+	@Resource
+	@ActionForm
+	protected ActionForm actionForm;
+
+}

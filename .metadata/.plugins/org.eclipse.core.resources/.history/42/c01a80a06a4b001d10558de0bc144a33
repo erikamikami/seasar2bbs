@@ -1,0 +1,7 @@
+package com.example.validator;
+
+import org.seasar.struts.validator.S2FieldChecks;
+
+public class EmailDuplicationCheck extends S2FieldChecks{
+
+}

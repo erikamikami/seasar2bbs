@@ -1,0 +1,2342 @@
+[
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jta_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a593f0d2e2d52a97aca1c4b243dccbc60d161631",
+    "jarFileModificationDate": "2022-10-12T11:55:35.123+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jta_1.1_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aopalliance-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+    "jarFileModificationDate": "2022-10-14T11:12:26.594+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\aopalliance-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-ejb_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0b7cd63d4b5dd839ff45fb93e7aa6c3599457f50",
+    "jarFileModificationDate": "2022-10-08T11:31:42.298+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-ejb_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jta_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a593f0d2e2d52a97aca1c4b243dccbc60d161631",
+    "jarFileModificationDate": "2022-10-14T11:12:26.623+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jta_1.1_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aopalliance-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+    "jarFileModificationDate": "2022-10-12T11:55:35.087+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\aopalliance-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9563168a94adcd6bf73674b0adfa3f8b36ebc57f",
+    "jarFileModificationDate": "2013-06-10T23:35:04+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "ognl",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 9,
+      "qualifier": "patch-20090427"
+    },
+    "jarFileFingerprint": "9b42df99ba18270346e3866dcfeea83468d24c17",
+    "jarFileModificationDate": "2022-10-14T11:12:26.607+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\ognl-2.6.9-patch-20090427.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-digester-1.6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e2822f655f2c182681c2cf27f224a425ccb2983d",
+    "jarFileModificationDate": "2022-10-14T11:12:26.702+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-digester-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-fileupload",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a10c06183fe21f3bb3dda3b5946b93db6e2ad5cc",
+    "jarFileModificationDate": "2022-10-14T11:12:26.712+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-fileupload-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "svnkit-1.2.0.4949",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bde0508334dcce36d0cfcd9a5e1c327525804c87",
+    "jarFileModificationDate": "2022-10-12T11:55:35.249+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\svnkit-1.2.0.4949.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-servlet_2.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fc39c4daa3877bbb4ee0b6e0d8036a28051122c",
+    "jarFileModificationDate": "2022-10-14T11:12:26.637+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\geronimo-servlet_2.4_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "freemarker-2.3.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5d66b544d9e4a89d7eed36ee0f393350d275796",
+    "jarFileModificationDate": "2022-10-12T11:55:35.249+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\freemarker-2.3.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-validator-1.2.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13dcebc00d206605bea72f6191b80370eb3ca805",
+    "jarFileModificationDate": "2022-10-12T13:40:04.088+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-validator-1.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist-3.4.ga",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dff02ca7696982700b8db25433289364cc028ff",
+    "jarFileModificationDate": "2022-10-12T11:55:35.092+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\javassist-3.4.ga.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "h2-1.0.69",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f980db09d2aa83c7995fb08cf0f25511c7265c",
+    "jarFileModificationDate": "2022-10-12T17:37:56.025+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\h2-1.0.69.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "h2-1.0.69",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f980db09d2aa83c7995fb08cf0f25511c7265c",
+    "jarFileModificationDate": "2022-10-12T11:55:35.108+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\h2-1.0.69.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-extension",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c679539e0028bfbeac7324575a0991ea8b1d227b",
+    "jarFileModificationDate": "2022-10-08T11:31:42.224+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\s2-extension-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-digester-1.6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e2822f655f2c182681c2cf27f224a425ccb2983d",
+    "jarFileModificationDate": "2022-10-08T11:31:42.282+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-digester-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2022-10-12T13:40:03.991+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-interceptor_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc63b0976892c04f960e450d75070a96c0e3d98f",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-interceptor_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2022-10-14T11:12:26.594+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr-2.7.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc396a9d026e6c723c8df0ca8625c73f702c2aa",
+    "jarFileModificationDate": "2022-10-14T11:12:26.752+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\antlr-2.7.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-servlet_2.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fc39c4daa3877bbb4ee0b6e0d8036a28051122c",
+    "jarFileModificationDate": "2022-10-12T11:55:35.123+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\geronimo-servlet_2.4_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0046b4afa97bf972a1148ecd4ea3426df5a585f6",
+    "jarFileModificationDate": "2013-06-10T23:35:02+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.seasar.sastruts.sa-struts",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "sp9"
+    },
+    "jarFileFingerprint": "b6b7345cba30ab31ac94a52a65ad582becee0851",
+    "jarFileModificationDate": "2022-10-14T11:12:26.759+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-tiger",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a2bed2f9985cc9fa0aaebe28b7fbf940cd8493d",
+    "jarFileModificationDate": "2022-10-12T11:55:35.139+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\s2-tiger-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "h2-1.0.69",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f980db09d2aa83c7995fb08cf0f25511c7265c",
+    "jarFileModificationDate": "2022-10-14T11:12:26.623+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\h2-1.0.69.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b65f92b99a574467fb0685e094edbbd24411ea41",
+    "jarFileModificationDate": "2013-06-10T23:35:04+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "junit-4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f35ee1f35d2dadbb5029991449ee90c1bab4d4a",
+    "jarFileModificationDate": "2022-10-14T11:12:26.667+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\junit-4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2022-10-12T11:55:35.092+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr-2.7.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc396a9d026e6c723c8df0ca8625c73f702c2aa",
+    "jarFileModificationDate": "2022-10-08T11:31:42.313+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\antlr-2.7.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2jdbc-gen",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17067ef9fe6c150624c477f7cfa29f74fc6538b3",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\s2jdbc-gen-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jpa_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4ca0167563f9718404c99e76f07eba2cb95382",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jpa_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40fb048097caeacdb11dbb33b5755854d89efdeb",
+    "jarFileModificationDate": "2022-10-12T13:40:04.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-collections-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ognl",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 9,
+      "qualifier": "patch-20090427"
+    },
+    "jarFileFingerprint": "9b42df99ba18270346e3866dcfeea83468d24c17",
+    "jarFileModificationDate": "2022-10-12T11:55:35.108+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\ognl-2.6.9-patch-20090427.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-tiger",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a2bed2f9985cc9fa0aaebe28b7fbf940cd8493d",
+    "jarFileModificationDate": "2022-10-08T11:31:42.240+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\s2-tiger-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-framework",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ba4dd228abd7f2d9efdd1a7a08b459eced9b777",
+    "jarFileModificationDate": "2022-10-14T11:12:26.637+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\s2-framework-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2022-10-08T11:31:42.262+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-beanutils-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "struts-1.2.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d772f30aff9ae4af06e3e4893fbc116619f2bed",
+    "jarFileModificationDate": "2022-10-12T13:40:04.088+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\struts-1.2.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-interceptor_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc63b0976892c04f960e450d75070a96c0e3d98f",
+    "jarFileModificationDate": "2022-10-12T11:55:35.202+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-interceptor_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.sastruts.sa-struts",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "sp9"
+    },
+    "jarFileFingerprint": "b6b7345cba30ab31ac94a52a65ad582becee0851",
+    "jarFileModificationDate": "2022-10-08T11:31:42.329+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "freemarker-2.3.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5d66b544d9e4a89d7eed36ee0f393350d275796",
+    "jarFileModificationDate": "2022-10-14T11:12:26.775+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\freemarker-2.3.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-taglibs-standard-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7",
+    "jarFileModificationDate": "2022-10-08T11:31:42.313+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-taglibs-standard-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1eb729148e04354fa59b10f60e2ab3e4e782c27",
+    "jarFileModificationDate": "2022-10-14T11:12:26.667+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\easymockclassextension-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2jdbc-gen",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17067ef9fe6c150624c477f7cfa29f74fc6538b3",
+    "jarFileModificationDate": "2022-10-14T11:12:26.775+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\s2jdbc-gen-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2022-10-08T11:31:42.262+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2022-10-12T17:37:56.006+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-validator-1.2.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13dcebc00d206605bea72f6191b80370eb3ca805",
+    "jarFileModificationDate": "2022-10-08T11:31:42.329+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-validator-1.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-servlet_2.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fc39c4daa3877bbb4ee0b6e0d8036a28051122c",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\geronimo-servlet_2.4_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-framework",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ba4dd228abd7f2d9efdd1a7a08b459eced9b777",
+    "jarFileModificationDate": "2022-10-12T17:37:56.041+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\s2-framework-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-annotation_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860dcd0e67cb28c767b6b5f52bc93e38d8dff52c",
+    "jarFileModificationDate": "2022-10-08T11:31:42.298+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-annotation_1.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aopalliance-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+    "jarFileModificationDate": "2022-10-08T11:31:42.193+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\aopalliance-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6dde38349ba9bb5e6ea6320531eae969985dae5",
+    "jarFileModificationDate": "2022-10-12T11:55:35.233+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-io-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jsp_2.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63e320215d083680aeb06c73df606e58ee4f82e9",
+    "jarFileModificationDate": "2022-10-12T13:40:04.104+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\geronimo-jsp_2.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "freemarker-2.3.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5d66b544d9e4a89d7eed36ee0f393350d275796",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\freemarker-2.3.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f35ee1f35d2dadbb5029991449ee90c1bab4d4a",
+    "jarFileModificationDate": "2022-10-08T11:31:42.240+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\junit-4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-framework",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ba4dd228abd7f2d9efdd1a7a08b459eced9b777",
+    "jarFileModificationDate": "2022-10-08T11:31:42.240+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\s2-framework-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.easymock.easymock",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1703c7b69a0590e25dad65ff8d14d7e465b019d",
+    "jarFileModificationDate": "2022-10-12T13:40:04.038+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\easymock-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.0-FINAL",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35c8b6e7416b2ea060df07518014ecf9bdea530f",
+    "jarFileModificationDate": "2022-10-14T11:12:26.623+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\poi-3.0-FINAL.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "freemarker-2.3.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5d66b544d9e4a89d7eed36ee0f393350d275796",
+    "jarFileModificationDate": "2022-10-08T11:31:42.345+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\freemarker-2.3.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5592374f834645c4ae250f4c9fbb314c9369d698",
+    "jarFileModificationDate": "2022-10-14T11:12:26.718+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-oro-2.0.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-annotation_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860dcd0e67cb28c767b6b5f52bc93e38d8dff52c",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-annotation_1.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jstl-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3375e43c620df4f1114959400ff9bb90d12a2feb",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\jstl-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-annotation_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860dcd0e67cb28c767b6b5f52bc93e38d8dff52c",
+    "jarFileModificationDate": "2022-10-14T11:12:26.718+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-annotation_1.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40fb048097caeacdb11dbb33b5755854d89efdeb",
+    "jarFileModificationDate": "2022-10-12T11:55:35.170+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-collections-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jpa_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4ca0167563f9718404c99e76f07eba2cb95382",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\geronimo-jpa_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jpa_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4ca0167563f9718404c99e76f07eba2cb95382",
+    "jarFileModificationDate": "2022-10-14T11:12:26.718+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jpa_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-el-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1df2c042b3f2de0124750241ac6c886dbfa2cc2c",
+    "jarFileModificationDate": "2022-10-12T13:40:04.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-el-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-el-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1df2c042b3f2de0124750241ac6c886dbfa2cc2c",
+    "jarFileModificationDate": "2022-10-12T11:55:35.186+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-el-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6dde38349ba9bb5e6ea6320531eae969985dae5",
+    "jarFileModificationDate": "2022-10-08T11:31:42.329+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-io-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "h2-1.0.69",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f980db09d2aa83c7995fb08cf0f25511c7265c",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\h2-1.0.69.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5592374f834645c4ae250f4c9fbb314c9369d698",
+    "jarFileModificationDate": "2022-10-12T11:55:35.202+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-oro-2.0.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.0-FINAL",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35c8b6e7416b2ea060df07518014ecf9bdea530f",
+    "jarFileModificationDate": "2022-10-08T11:31:42.208+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\poi-3.0-FINAL.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-ejb_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0b7cd63d4b5dd839ff45fb93e7aa6c3599457f50",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-ejb_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-extension",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c679539e0028bfbeac7324575a0991ea8b1d227b",
+    "jarFileModificationDate": "2022-10-14T11:12:26.637+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\s2-extension-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "svnkit-1.2.0.4949",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bde0508334dcce36d0cfcd9a5e1c327525804c87",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\svnkit-1.2.0.4949.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-validator-1.2.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13dcebc00d206605bea72f6191b80370eb3ca805",
+    "jarFileModificationDate": "2022-10-14T11:12:26.752+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-validator-1.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "struts-1.2.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d772f30aff9ae4af06e3e4893fbc116619f2bed",
+    "jarFileModificationDate": "2022-10-14T11:12:26.736+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\struts-1.2.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-ejb_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0b7cd63d4b5dd839ff45fb93e7aa6c3599457f50",
+    "jarFileModificationDate": "2022-10-14T11:12:26.718+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-ejb_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-fileupload",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a10c06183fe21f3bb3dda3b5946b93db6e2ad5cc",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-fileupload-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-tiger",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a2bed2f9985cc9fa0aaebe28b7fbf940cd8493d",
+    "jarFileModificationDate": "2022-10-14T11:12:26.651+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\s2-tiger-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f35ee1f35d2dadbb5029991449ee90c1bab4d4a",
+    "jarFileModificationDate": "2022-10-12T13:40:04.038+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\junit-4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist-3.4.ga",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dff02ca7696982700b8db25433289364cc028ff",
+    "jarFileModificationDate": "2022-10-14T11:12:26.607+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\javassist-3.4.ga.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "h2-1.0.69",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f980db09d2aa83c7995fb08cf0f25511c7265c",
+    "jarFileModificationDate": "2022-10-08T11:31:42.224+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\h2-1.0.69.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-servlet_2.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fc39c4daa3877bbb4ee0b6e0d8036a28051122c",
+    "jarFileModificationDate": "2022-10-08T11:31:42.224+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\geronimo-servlet_2.4_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-interceptor_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc63b0976892c04f960e450d75070a96c0e3d98f",
+    "jarFileModificationDate": "2022-10-14T11:12:26.718+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-interceptor_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-el-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1df2c042b3f2de0124750241ac6c886dbfa2cc2c",
+    "jarFileModificationDate": "2022-10-14T11:12:26.702+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-el-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.easymock.easymock",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1703c7b69a0590e25dad65ff8d14d7e465b019d",
+    "jarFileModificationDate": "2022-10-12T17:37:56.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\easymock-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2022-10-12T13:40:04.038+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-beanutils-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jsp_2.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63e320215d083680aeb06c73df606e58ee4f82e9",
+    "jarFileModificationDate": "2022-10-08T11:31:42.329+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\geronimo-jsp_2.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70e3f9e76e3d5884415516c0cee0855295bcb571",
+    "jarFileModificationDate": "2013-06-10T23:35:02+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jpa_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4ca0167563f9718404c99e76f07eba2cb95382",
+    "jarFileModificationDate": "2022-10-08T11:31:42.298+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jpa_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.0-FINAL",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35c8b6e7416b2ea060df07518014ecf9bdea530f",
+    "jarFileModificationDate": "2022-10-12T11:55:35.108+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\poi-3.0-FINAL.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.0-FINAL",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35c8b6e7416b2ea060df07518014ecf9bdea530f",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\poi-3.0-FINAL.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist-3.4.ga",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dff02ca7696982700b8db25433289364cc028ff",
+    "jarFileModificationDate": "2022-10-12T17:37:56.025+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\javassist-3.4.ga.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "freemarker-2.3.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d5d66b544d9e4a89d7eed36ee0f393350d275796",
+    "jarFileModificationDate": "2022-10-12T13:40:04.104+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\freemarker-2.3.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "svnkit-1.2.0.4949",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bde0508334dcce36d0cfcd9a5e1c327525804c87",
+    "jarFileModificationDate": "2022-10-12T13:40:04.104+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\svnkit-1.2.0.4949.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jsp_2.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63e320215d083680aeb06c73df606e58ee4f82e9",
+    "jarFileModificationDate": "2022-10-12T11:55:35.249+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\geronimo-jsp_2.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f8da7286762c943589cc4bad399fdc11b88012ab",
+    "jarFileModificationDate": "2013-06-10T23:35:06+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c40b948a8103c939a0da54723630db9d4633c350",
+    "jarFileModificationDate": "2013-06-10T23:35:02+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jsp_2.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63e320215d083680aeb06c73df606e58ee4f82e9",
+    "jarFileModificationDate": "2022-10-14T11:12:26.774+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\geronimo-jsp_2.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jstl-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3375e43c620df4f1114959400ff9bb90d12a2feb",
+    "jarFileModificationDate": "2022-10-12T11:55:35.217+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\jstl-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.sastruts.sa-struts",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "sp9"
+    },
+    "jarFileFingerprint": "b6b7345cba30ab31ac94a52a65ad582becee0851",
+    "jarFileModificationDate": "2022-10-12T11:55:35.233+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-framework",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ba4dd228abd7f2d9efdd1a7a08b459eced9b777",
+    "jarFileModificationDate": "2022-10-12T11:55:35.139+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\s2-framework-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-annotation_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860dcd0e67cb28c767b6b5f52bc93e38d8dff52c",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\geronimo-annotation_1.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-tiger",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a2bed2f9985cc9fa0aaebe28b7fbf940cd8493d",
+    "jarFileModificationDate": "2022-10-12T17:37:56.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\s2-tiger-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2022-10-12T11:55:35.155+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2022-10-12T11:55:35.170+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-beanutils-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-extension",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c679539e0028bfbeac7324575a0991ea8b1d227b",
+    "jarFileModificationDate": "2022-10-12T17:37:56.041+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\s2-extension-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1eb729148e04354fa59b10f60e2ab3e4e782c27",
+    "jarFileModificationDate": "2022-10-12T13:40:04.038+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\easymockclassextension-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bad5efeb8864023266a8a3a84da1ede49505006e",
+    "jarFileModificationDate": "2013-06-10T23:35:02+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-fileupload",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a10c06183fe21f3bb3dda3b5946b93db6e2ad5cc",
+    "jarFileModificationDate": "2022-10-12T11:55:35.186+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-fileupload-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-taglibs-standard-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7",
+    "jarFileModificationDate": "2022-10-12T11:55:35.217+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-taglibs-standard-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2jdbc-gen",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17067ef9fe6c150624c477f7cfa29f74fc6538b3",
+    "jarFileModificationDate": "2022-10-08T11:31:42.345+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\s2jdbc-gen-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ognl",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 9,
+      "qualifier": "patch-20090427"
+    },
+    "jarFileFingerprint": "9b42df99ba18270346e3866dcfeea83468d24c17",
+    "jarFileModificationDate": "2022-10-08T11:31:42.208+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\ognl-2.6.9-patch-20090427.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1eb729148e04354fa59b10f60e2ab3e4e782c27",
+    "jarFileModificationDate": "2022-10-08T11:31:42.262+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\easymockclassextension-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.postgresql.jdbc",
+    "version": {
+      "major": 42,
+      "minor": 2,
+      "micro": 26,
+      "qualifier": "jre6"
+    },
+    "jarFileFingerprint": "263da1c544b98b24c68c205f05e8ae254a74e706",
+    "jarFileModificationDate": "2022-10-12T13:54:42.121+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\postgresql-42.2.26.jre6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr-2.7.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc396a9d026e6c723c8df0ca8625c73f702c2aa",
+    "jarFileModificationDate": "2022-10-12T13:40:04.088+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\antlr-2.7.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2jdbc-gen",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17067ef9fe6c150624c477f7cfa29f74fc6538b3",
+    "jarFileModificationDate": "2022-10-12T13:40:04.104+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\s2jdbc-gen-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.easymock.easymock",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1703c7b69a0590e25dad65ff8d14d7e465b019d",
+    "jarFileModificationDate": "2022-10-12T11:55:35.155+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\easymock-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2022-10-08T11:31:42.208+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ognl",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 9,
+      "qualifier": "patch-20090427"
+    },
+    "jarFileFingerprint": "9b42df99ba18270346e3866dcfeea83468d24c17",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\ognl-2.6.9-patch-20090427.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist-3.4.ga",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dff02ca7696982700b8db25433289364cc028ff",
+    "jarFileModificationDate": "2022-10-08T11:31:42.193+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\javassist-3.4.ga.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jpa_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb4ca0167563f9718404c99e76f07eba2cb95382",
+    "jarFileModificationDate": "2022-10-12T11:55:35.202+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jpa_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-ejb_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0b7cd63d4b5dd839ff45fb93e7aa6c3599457f50",
+    "jarFileModificationDate": "2022-10-12T11:55:35.202+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-ejb_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40fb048097caeacdb11dbb33b5755854d89efdeb",
+    "jarFileModificationDate": "2022-10-08T11:31:42.278+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-collections-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2022-10-14T11:12:26.684+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.easymock.easymock",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1703c7b69a0590e25dad65ff8d14d7e465b019d",
+    "jarFileModificationDate": "2022-10-08T11:31:42.255+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\easymock-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1eb729148e04354fa59b10f60e2ab3e4e782c27",
+    "jarFileModificationDate": "2022-10-12T17:37:56.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\easymockclassextension-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5592374f834645c4ae250f4c9fbb314c9369d698",
+    "jarFileModificationDate": "2022-10-08T11:31:42.298+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-oro-2.0.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jstl-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3375e43c620df4f1114959400ff9bb90d12a2feb",
+    "jarFileModificationDate": "2022-10-14T11:12:26.734+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\jstl-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bcb75a83b79e616c348c7affc1115329d272fcc",
+    "jarFileModificationDate": "2013-06-10T23:35:02+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-extension",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c679539e0028bfbeac7324575a0991ea8b1d227b",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\s2-extension-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javassist-3.4.ga",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dff02ca7696982700b8db25433289364cc028ff",
+    "jarFileModificationDate": "2022-10-12T13:40:03.991+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\javassist-3.4.ga.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2022-10-12T13:40:03.991+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis.objenesis",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1eb729148e04354fa59b10f60e2ab3e4e782c27",
+    "jarFileModificationDate": "2022-10-12T11:55:35.155+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\easymockclassextension-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6dde38349ba9bb5e6ea6320531eae969985dae5",
+    "jarFileModificationDate": "2022-10-14T11:12:26.759+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-io-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.sastruts.sa-struts",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "sp9"
+    },
+    "jarFileFingerprint": "b6b7345cba30ab31ac94a52a65ad582becee0851",
+    "jarFileModificationDate": "2022-10-12T13:40:04.104+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6dde38349ba9bb5e6ea6320531eae969985dae5",
+    "jarFileModificationDate": "2022-10-12T13:40:04.088+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-io-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.0-FINAL",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "35c8b6e7416b2ea060df07518014ecf9bdea530f",
+    "jarFileModificationDate": "2022-10-12T17:37:56.025+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\poi-3.0-FINAL.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f35ee1f35d2dadbb5029991449ee90c1bab4d4a",
+    "jarFileModificationDate": "2022-10-12T17:37:56.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\junit-4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2022-10-12T17:37:56.072+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40fb048097caeacdb11dbb33b5755854d89efdeb",
+    "jarFileModificationDate": "2022-10-14T11:12:26.686+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-collections-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jta_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a593f0d2e2d52a97aca1c4b243dccbc60d161631",
+    "jarFileModificationDate": "2022-10-12T17:37:56.041+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\geronimo-jta_1.1_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-taglibs-standard-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7",
+    "jarFileModificationDate": "2022-10-12T13:40:04.088+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-taglibs-standard-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "svnkit-1.2.0.4949",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bde0508334dcce36d0cfcd9a5e1c327525804c87",
+    "jarFileModificationDate": "2022-10-14T11:12:26.775+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\svnkit-1.2.0.4949.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "279439a9e994b7ce3832ebc12e6219c656167d54",
+    "jarFileModificationDate": "2013-06-10T23:35:06+09:00",
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-servlet_2.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8fc39c4daa3877bbb4ee0b6e0d8036a28051122c",
+    "jarFileModificationDate": "2022-10-12T17:37:56.041+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\geronimo-servlet_2.4_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "struts-1.2.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d772f30aff9ae4af06e3e4893fbc116619f2bed",
+    "jarFileModificationDate": "2022-10-12T11:55:35.217+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\struts-1.2.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f35ee1f35d2dadbb5029991449ee90c1bab4d4a",
+    "jarFileModificationDate": "2022-10-12T11:55:35.155+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\junit-4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-extension",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c679539e0028bfbeac7324575a0991ea8b1d227b",
+    "jarFileModificationDate": "2022-10-12T11:55:35.123+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\s2-extension-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aopalliance-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+    "jarFileModificationDate": "2022-10-12T13:40:03.991+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\aopalliance-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jstl-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3375e43c620df4f1114959400ff9bb90d12a2feb",
+    "jarFileModificationDate": "2022-10-08T11:31:42.313+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\jstl-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-annotation_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "860dcd0e67cb28c767b6b5f52bc93e38d8dff52c",
+    "jarFileModificationDate": "2022-10-12T11:55:35.186+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-annotation_1.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-validator-1.2.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13dcebc00d206605bea72f6191b80370eb3ca805",
+    "jarFileModificationDate": "2022-10-12T11:55:35.233+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-validator-1.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.postgresql.jdbc",
+    "version": {
+      "major": 42,
+      "minor": 2,
+      "micro": 26,
+      "qualifier": "jre6"
+    },
+    "jarFileFingerprint": "263da1c544b98b24c68c205f05e8ae254a74e706",
+    "jarFileModificationDate": "2022-10-12T13:54:42.121+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\postgresql-42.2.26.jre6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-oro-2.0.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5592374f834645c4ae250f4c9fbb314c9369d698",
+    "jarFileModificationDate": "2022-10-12T13:40:04.073+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-oro-2.0.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2jdbc-gen",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "17067ef9fe6c150624c477f7cfa29f74fc6538b3",
+    "jarFileModificationDate": "2022-10-12T11:55:35.249+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\lib\\s2jdbc-gen-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-fileupload",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a10c06183fe21f3bb3dda3b5946b93db6e2ad5cc",
+    "jarFileModificationDate": "2022-10-08T11:31:42.282+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-fileupload-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-digester-1.6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e2822f655f2c182681c2cf27f224a425ccb2983d",
+    "jarFileModificationDate": "2022-10-12T13:40:04.056+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\commons-digester-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-el-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1df2c042b3f2de0124750241ac6c886dbfa2cc2c",
+    "jarFileModificationDate": "2022-10-08T11:31:42.282+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-el-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "svnkit-1.2.0.4949",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bde0508334dcce36d0cfcd9a5e1c327525804c87",
+    "jarFileModificationDate": "2022-10-08T11:31:42.345+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\lib\\svnkit-1.2.0.4949.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2022-10-12T13:40:04.038+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\lib\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-framework",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ba4dd228abd7f2d9efdd1a7a08b459eced9b777",
+    "jarFileModificationDate": "2022-10-12T13:40:04.022+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\s2-framework-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2022-10-12T11:55:35.092+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seasar.container.s2-tiger",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 46,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a2bed2f9985cc9fa0aaebe28b7fbf940cd8493d",
+    "jarFileModificationDate": "2022-10-12T13:40:04.022+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\s2-tiger-2.4.46.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2022-10-14T11:12:26.686+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\commons-beanutils-1.7.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "antlr-2.7.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc396a9d026e6c723c8df0ca8625c73f702c2aa",
+    "jarFileModificationDate": "2022-10-12T11:55:35.233+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\antlr-2.7.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aopalliance-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0235ba8b489512805ac13a8f9ea77a1ca5ebe3e8",
+    "jarFileModificationDate": "2022-10-12T17:37:56.006+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\aopalliance-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jakarta-taglibs-standard-1.1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7",
+    "jarFileModificationDate": "2022-10-14T11:12:26.736+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\jakarta-taglibs-standard-1.1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ognl",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 9,
+      "qualifier": "patch-20090427"
+    },
+    "jarFileFingerprint": "9b42df99ba18270346e3866dcfeea83468d24c17",
+    "jarFileModificationDate": "2022-10-12T17:37:56.025+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\ognl-2.6.9-patch-20090427.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging-1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba24d5de831911b684c92cd289ed5ff826271824",
+    "jarFileModificationDate": "2022-10-08T11:31:42.193+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\commons-logging-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-digester-1.6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e2822f655f2c182681c2cf27f224a425ccb2983d",
+    "jarFileModificationDate": "2022-10-12T11:55:35.186+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\sastruts\\src\\main\\webapp\\WEB-INF\\lib\\commons-digester-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2022-10-12T17:37:56.025+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\s2jdbc\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.13",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8b1b85d04eea979c33109ea42808b7d3f6d355ab",
+    "jarFileModificationDate": "2022-10-14T11:12:26.607+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\log4j-1.2.13.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.easymock.easymock",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1703c7b69a0590e25dad65ff8d14d7e465b019d",
+    "jarFileModificationDate": "2022-10-14T11:12:26.667+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\lib\\easymock-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jta_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a593f0d2e2d52a97aca1c4b243dccbc60d161631",
+    "jarFileModificationDate": "2022-10-08T11:31:42.224+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jta_1.1_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "struts-1.2.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d772f30aff9ae4af06e3e4893fbc116619f2bed",
+    "jarFileModificationDate": "2022-10-08T11:31:42.313+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\struts-1.2.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-interceptor_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc63b0976892c04f960e450d75070a96c0e3d98f",
+    "jarFileModificationDate": "2022-10-08T11:31:42.298+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\Sample\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-interceptor_3.0_spec-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.geronimo.specs.geronimo-jta_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a593f0d2e2d52a97aca1c4b243dccbc60d161631",
+    "jarFileModificationDate": "2022-10-12T13:40:04.007+09:00",
+    "location": "C:\\env\\pleiades-e4.3\\postgres\\src\\main\\webapp\\WEB-INF\\lib\\geronimo-jta_1.1_spec-1.0.jar",
+    "javaRuntime": false
+  }
+]

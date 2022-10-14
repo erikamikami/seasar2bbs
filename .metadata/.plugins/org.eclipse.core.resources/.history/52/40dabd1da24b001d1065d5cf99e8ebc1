@@ -1,0 +1,11 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>掲示板詳細</h1>
+<c:out value="${bbs.title}"></c:out>
+<div>
+  <html:text property="comment" />
+  <s:submit property="" value="コメント投稿" />
+</div>
+</body>
+</html>

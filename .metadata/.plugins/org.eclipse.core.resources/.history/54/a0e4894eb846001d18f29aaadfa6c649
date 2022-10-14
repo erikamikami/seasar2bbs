@@ -1,0 +1,9 @@
+package com.sample.action;
+
+import java.util.HashMap;
+
+public class InfoAction {
+
+	public HashMap<String, String> titles = new HashMap<String, String>();
+
+}

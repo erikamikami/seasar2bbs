@@ -1,0 +1,30 @@
+package com.example.entity;
+
+import java.sql.Timestamp;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="comments")
+public class Comment {
+
+	@Column(name="id")
+	@Id
+	public int id;
+	@Column(name="bbs_id")
+	public int bbsId;
+	@Column(name="user_id")
+	public int userId;
+	@Column(name="comment")
+	public String comment;
+	@Column(name="created_at")
+	public Timestamp createdAt;
+	@Column(name="updated_at")
+	public Timestamp updatedAt;
+	@Column(name="is_deleted")
+	public boolean isDeleted;
+
+}

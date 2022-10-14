@@ -1,0 +1,12 @@
+package com.example.entity;
+
+import com.example.form.Strng;
+
+public class Employee {
+
+	public String name;
+	public String age;
+	public Gender gender;
+	public String address;
+
+}

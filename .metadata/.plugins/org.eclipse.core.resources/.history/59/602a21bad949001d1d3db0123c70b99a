@@ -1,0 +1,19 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+public class EchoAction {
+
+	@Resource
+	@ActionForm
+	protected ActionForm actionForm;
+
+	@Execute(validator=false)
+	public String index(){
+		return "input.jsp";
+	}
+
+}

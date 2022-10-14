@@ -1,0 +1,12 @@
+package com.example.validator;
+
+import org.seasar.struts.validator.S2FieldChecks;
+
+
+public class EmailDuplicationCheck extends S2FieldChecks{
+
+	private static final long serialVersionUID = 1L;
+
+
+
+}

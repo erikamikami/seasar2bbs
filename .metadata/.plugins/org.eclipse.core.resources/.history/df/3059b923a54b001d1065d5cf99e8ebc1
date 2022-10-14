@@ -1,0 +1,22 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.entity.Comment;
+import com.example.form.CreateCommentForm;
+
+public class CreateCommentService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	public int insert(CreateCommentForm form){
+		Comment comment = new Comment();
+		comment.bbsId = form.bbsId;
+		comment.comment = form.comment;
+		int count = jdbcManager.from(form)
+	}
+
+}

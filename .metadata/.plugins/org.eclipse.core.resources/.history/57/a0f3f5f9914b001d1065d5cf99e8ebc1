@@ -1,0 +1,30 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.dto.UserDto;
+import com.example.form.BbsCreateForm;
+
+public class CreateBbsAction {
+
+	@Resource
+	@ActionForm
+	protected BbsCreateForm bbsCreateForm;
+
+	@Resource
+	protected UserDto userDto;
+
+	@Execute(validator=false)
+	public String index(){
+		return "bbs_create_form.jsp";
+	}
+
+	@Execute(validator=false)
+	public String createBbs(){
+		return "bbs_create_form.jsp";
+	}
+
+}

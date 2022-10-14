@@ -1,0 +1,25 @@
+package com.example.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+
+@Entity
+public class Gender {
+
+	@Column(name="id")
+	public int id;
+	@Column(name="gender")
+	public String gender;
+
+	public Gender(int id, String gender) {
+		super();
+		this.id = id;
+		this.gender = gender;
+	}
+
+	@Override
+	public String toString() {
+		return "Gender [id=" + id + ", gender=" + gender + "]";
+	}
+
+}

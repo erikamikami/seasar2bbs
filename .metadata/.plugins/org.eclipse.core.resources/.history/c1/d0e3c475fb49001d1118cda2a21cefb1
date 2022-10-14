@@ -1,0 +1,31 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.form.InsertForm;
+
+public class InsertAction {
+
+	@Resource
+	@ActionForm
+	protected InsertForm insertForm;
+
+//	@Resource
+//	protected EmployeeService service;
+
+	@Execute(validator=false)
+	public String index(){
+		return "insert.jsp";
+	}
+
+	@Execute(validator=false)
+	public String insert(){
+//		int count = service.insert(insertForm);
+//		System.out.println("インサートした件数は" + count + "件です");
+		return "test.jsp";
+	}
+
+}

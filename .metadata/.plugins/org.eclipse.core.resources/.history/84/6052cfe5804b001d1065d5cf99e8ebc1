@@ -1,0 +1,13 @@
+package com.example.annotation;
+
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Target;
+
+import org.seasar.struts.annotation.Validator;
+
+@Rete
+@Target(ElementType.FIELD)
+@Validator("emailDuplication")
+public @interface ACheck {
+
+}

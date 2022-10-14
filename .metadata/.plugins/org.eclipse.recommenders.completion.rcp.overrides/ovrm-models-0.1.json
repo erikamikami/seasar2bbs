@@ -1,0 +1,12 @@
+{
+  "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\rt.jar": {
+    "location": "C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\pleiades-e4.3-java-jre_20140321\\pleiades-e4.3-java-jre_20140321\\pleiades\\java\\6\\lib\\rt.jar\u0027. Neither fingerprint \u0027279439a9e994b7ce3832ebc12e6219c656167d54\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar": {
+    "location": "C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\env\\pleiades-e4.3\\seasar2bbs\\src\\main\\webapp\\WEB-INF\\lib\\sa-struts-1.0.4-sp9.jar\u0027. Neither fingerprint \u0027b6b7345cba30ab31ac94a52a65ad582becee0851\u0027 nor symbolic name \u0027org.seasar.sastruts.sa-struts\u0027 are known."
+  }
+}

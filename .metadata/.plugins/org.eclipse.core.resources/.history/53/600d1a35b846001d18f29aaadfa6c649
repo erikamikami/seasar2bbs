@@ -1,0 +1,11 @@
+package com.sample.action;
+
+import java.util.HashMap;
+
+import org.seasar.struts.annotation.Execute;
+
+public class InfoAction {
+
+	public HashMap<String, String> titles = new HashMap<String, String>;
+
+}

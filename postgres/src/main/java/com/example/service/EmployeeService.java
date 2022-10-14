@@ -1,0 +1,22 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+import com.example.entity.Employee;
+import com.example.form.InsertForm;
+
+public class EmployeeService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+	public int insert(InsertForm form){
+		Employee employee = new Employee();
+		employee.transform(form);
+		int count = jdbcManager.insert(employee).execute();
+		return count;
+	}
+
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.seasar.dblauncher.launchConfigurationType">
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.h2.tools.Server"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value=" -tcp -tcpPort 9092 -web -webPort 8082 -baseDir &quot;C:/env/pleiades-e4.3/s2jdbc/src/main/resources/data&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="s2jdbc"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/s2jdbc/src/main/resources/data"/>
+</launchConfiguration>

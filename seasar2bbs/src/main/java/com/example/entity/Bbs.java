@@ -1,0 +1,43 @@
+package com.example.entity;
+
+import java.sql.Timestamp;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="bbs")
+public class Bbs {
+
+	@Column(name="id")
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	public int id;
+	@Column(name="title")
+	public String title;
+	@Column(name="user_id")
+	public int userId;
+	@Column(name="created_at")
+	public Timestamp createdAt;
+	@Column(name="updated_at")
+	public Timestamp updatedAt;
+	@Column(name="is_deleted")
+	public boolean isDeleted;
+	@OneToMany(mappedBy="bbs")
+	public List<Comment> commentList;
+
+	@Override
+	public String toString() {
+		return "Bbs [id=" + id + ", title=" + title + ", userId=" + userId
+				+ ", createdAt=" + createdAt + ", updatedAt=" + updatedAt
+				+ ", isDeleted=" + isDeleted + ", commentList=" + commentList
+				+ "]";
+	}
+
+}

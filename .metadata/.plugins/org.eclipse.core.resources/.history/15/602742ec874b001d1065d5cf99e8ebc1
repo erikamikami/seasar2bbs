@@ -1,0 +1,39 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.dto.UserDto;
+import com.example.entity.User;
+import com.example.form.LoginForm;
+import com.example.service.LoginService;
+
+public class LoginAction {
+
+	@Resource
+	@ActionForm
+	protected LoginForm loginForm;
+
+	// 認証情報を格納するセッションスコープのDTO
+	protected UserDto userDto;
+
+	@Resource
+	protected LoginService loginService;
+
+	@Execute(validator=false)
+	public String index(){
+		return "login.jsp";
+	}
+
+	@Execute(validator=false)
+	public String login(){
+		User user = loginService.findByEmailAndPassword(loginForm);
+		if(user.equals(null)){
+			return "login.jsp";
+		}
+		return "success.jsp";
+	}
+
+}

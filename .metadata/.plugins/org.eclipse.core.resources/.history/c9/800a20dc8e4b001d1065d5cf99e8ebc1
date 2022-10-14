@@ -1,0 +1,16 @@
+<%@page pageEncoding="UTF-8"%>
+<html>
+<body>
+<h1>掲示板の作成</h1>
+<s:form>
+  <div>
+    <label>タイトル</label>
+    <html:text property="title"></html:text>
+  </div>
+  <div>
+    <label>タイトル</label>
+    <html:text property="title"></html:text>
+  </div>
+</s:form>
+</body>
+</html>

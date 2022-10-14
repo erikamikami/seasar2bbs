@@ -1,0 +1,18 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+import org.seasar.struts.annotation.Execute;
+
+public class AnimalssearchAction {
+
+	@Resource
+	public JdbcManager jdbcManager;
+
+	@Execute(validate=false)
+	public String allsearch(){
+
+	}
+
+}

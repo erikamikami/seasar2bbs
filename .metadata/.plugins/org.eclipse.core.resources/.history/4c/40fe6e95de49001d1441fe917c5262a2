@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div id="error"></div>
+<form id="form">
+  <h1>名前を入力してください</h1>
+  <input id="name" type="text" name="name">
+  <input id="submit"  type="submit" value="aaa">
+</form>
+</body>
+</html>

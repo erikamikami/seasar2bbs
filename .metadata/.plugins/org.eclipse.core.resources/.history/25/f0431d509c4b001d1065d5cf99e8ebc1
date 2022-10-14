@@ -1,0 +1,22 @@
+package com.example.action;
+
+import javax.annotation.Resource;
+
+import org.seasar.struts.annotation.ActionForm;
+import org.seasar.struts.annotation.Execute;
+
+import com.example.form.CreateCommentForm;
+
+public class DetailBbsAction {
+
+	@Resource
+	@ActionForm
+	protected CreateCommentForm createCommentForm;
+
+
+	@Execute(validator=false, urlPattern="/{userDtoId}")
+	public String index(){
+		return "bbs_detail.jsp";
+	}
+
+}

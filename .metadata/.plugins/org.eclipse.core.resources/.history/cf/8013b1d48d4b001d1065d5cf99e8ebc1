@@ -1,0 +1,9 @@
+package com.example.action;
+
+public class CreateBbsAction {
+
+	public String index(){
+		return null;
+	}
+
+}

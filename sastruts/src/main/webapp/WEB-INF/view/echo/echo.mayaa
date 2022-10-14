@@ -1,0 +1,6 @@
+<?xml version="1.0" encodeing="UTF-8"?>
+<m:mayaa xmlns:m="http://mayaa.seasar.org" xmlns:s="http://sastruts.seasar.org" xmlns:html="http://jakarta.apache.org/struts/tags-html">
+
+  <m:write m:id="name"  m:replace="false" value="${name}" />>
+
+</m:mayaa>

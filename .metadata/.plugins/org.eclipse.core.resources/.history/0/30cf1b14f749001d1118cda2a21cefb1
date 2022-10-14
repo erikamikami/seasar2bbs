@@ -1,0 +1,12 @@
+package com.example.service;
+
+import javax.annotation.Resource;
+
+import org.seasar.extension.jdbc.JdbcManager;
+
+public class EmployeeService {
+
+	@Resource
+	protected JdbcManager jdbcManager;
+
+}
